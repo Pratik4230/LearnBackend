@@ -11,3 +11,4 @@ install prettier from npm -> npm i -D prettier
 prettierrc how code  write convention
 
 add file .prettierignore  and this generator
+
